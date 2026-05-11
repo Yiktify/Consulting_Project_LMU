@@ -1,2 +1,3 @@
-# Consulting-Project---Policy-Effect
-Evaluating the Impact of Munich’s Two-Stage Traffic Policies on PM2.5 and PM10
+# Consulting-Project: Evaluating the Impact of Munich’s Two-Stage Traffic Policies on PM2.5 and PM10
+
+This project evaluates the impact of traffic policies within Munich’s Mittlerer Ring on PM2.5 and PM10 concentrations by utilizing large-scale open-data from sensors across the city. Analyzing three and a half years of data, we investigated whether two-stage policies effectively mitigated the main pollution sources under varying traffic dynamics. To address this question, we developed a comprehensive data processing pipeline for low-cost sensor data and applied econometric models to evaluate the effects. Beyond assessing the impact of existing traffic policies on air quality, this project uses empirical findings to predict future policy directions and provides a data-driven basis for the next steps in urban pollution management.
